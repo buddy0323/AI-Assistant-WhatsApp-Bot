@@ -1,6 +1,10 @@
+Here's your updated README:
+
 # AI-Assistant-WhatsApp-Bot
 
 This repository contains a Python-based AI assistant that uses OpenAI's GPT-3.5 Turbo model to generate responses to user queries received via WhatsApp. The assistant leverages the Twilio API for WhatsApp communication and the OpenAI API for generating AI responses. It is built on the Flask framework and can be deployed on any server.
+
+![Bot Screenshot](images/WhatsApp Beta 23_07_2023 06_01_46.png)
 
 ## Getting Started
 
@@ -88,4 +92,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Contact
 
-If you have any questions, feel free to open an issue or contact the repository owner.
+If you have any questions, feel free to open an issue or contact the repository owner. You can also reach out via Twitter at [@djpapzin](https://twitter.com/djpapzin), [WhatsApp] (https://wa.me/0834837699) via email at djpapzin@gmail.com.
+
+The code is also available on Replit: [AI-Assistant-WhatsApp-Bot on Replit](https://replit.com/@DjPapzin/Whatsapp-ChatGPT-bot?v=1)
