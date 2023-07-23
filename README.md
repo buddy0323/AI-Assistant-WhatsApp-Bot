@@ -97,3 +97,9 @@ If you have any questions, feel free to open an issue or contact the repository 
 - Twitter: [@djpapzin](https://twitter.com/djpapzin)
 - Email: djpapzin@gmail.com
 - Replit: [https://replit.com/@DjPapzin/Whatsapp-ChatGPT-bot?v=1](https://replit.com/@DjPapzin/Whatsapp-ChatGPT-bot?v=1)
+
+## Future Ideas
+- Voinenote capabilities (text-to-speech) - transcribe audio from user using openai whisper speech to text and reply with text
+- Voinenote capabilities (speech-to-text) - transcribe audio from user using openai whisper speech to text and reply with audio from eleven labs.
+- Add Memory using langchain conversation buffer memory.
+
